@@ -1,0 +1,14 @@
+
+
+.exeone{
+  display: flex;
+  background-color:yellow;
+  justify-content: center;
+  padding-top: 19rem;
+  align-items: center;
+  margin-top: 60px;
+  text-align: center;
+}
+
+
+
